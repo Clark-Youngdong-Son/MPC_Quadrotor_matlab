@@ -1,5 +1,6 @@
-# minSnapTrajec_matlab
-MATLAB simulation for the paper 'Minimum snap trajectory generation and control for quadrotors
+# MPC_Quadrotor_matlab
+
+MATLAB simulation for the paper 'Fast Nonlinear Model Predictive Control for Unified Trajectory Optimization and Tracking'
 
 ICSL drone flight project team
 
